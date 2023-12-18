@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 👋 Hi，我是 Zho ！
 
+[中文](README.md) | [English](README.en.md)
+
 <!---
 ![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=ZHO-ZHO-ZHO&show_icons=true)
 --->
