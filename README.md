@@ -64,9 +64,9 @@ You can click the Preview link to take a look at your changes.
 
 🔥 **热门**：
 - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: 主库，完整工作内容和时间线
-- **[ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)**：GPTs帮助创建或解释自定义节点或工作流，上榜 GPTs 全球对话数据第 285 名（12.19数据），目前已达已达1.4k！
+- **[ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)**：GPTs帮助创建或解释自定义节点或工作流，上榜 GPTs 全球对话数据第 285 名（12.19数据），目前已达1.4k！
 - **[ComfyUI Portrait Master 简体中文版](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)**: 人物肖像提示词生成模块，选择永远比填空更适合人类！
-- **[Gemini in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini)**: 将 Google Gemini Pro 双模型引入到 ComfyUI 中，现在你可以用它生成提示词、描述图像，也可与它畅聊人生（已提供上下文聊天节点）！
+- **[Gemini in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini)**: 将 Gemini Pro 双模型引入到 ComfyUI 中，生成提示词、描述图像，也可与它畅聊人生！
 
 📬 **联系我**：
 - 邮箱：zhozho3965@gmail.com
