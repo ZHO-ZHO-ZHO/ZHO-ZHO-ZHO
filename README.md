@@ -68,6 +68,9 @@ You can click the Preview link to take a look at your changes.
 - **[ComfyUI Portrait Master 简体中文版](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)**: 人物肖像提示词生成模块，选择永远比填空更适合人类！
 - **[Gemini in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini)**: 将 Gemini Pro 双模型引入到 ComfyUI 中，生成提示词、描述图像，也可与它畅聊人生！
 - **[ComfyUI ArtGallery | Prompt Visualization](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery)**: 将近千种艺术提示词分类可视化，只需选择喜欢的图像 + 滑动选择权重，节点就会自动输出提示词，自由的在艺术世界翱翔吧！
+- **[ComfyUI PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO)**: 人物特征迁移与融合，支持单/多张参考图，轻松保持角色一致性！
+- **[ComfyUI InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)**: 仅需一张图就可实现高质量的角色保持！多种风格随心变！
+- **[QWen-VL in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API)**: 将目前最好的开源视觉模型 QWen-VL-Plus & Max 引入到 ComfyUI 中，超强细节、文字识别能力，支持单/多轮对话双模式！
 
 📬 **联系我**：
 - 邮箱：zhozho3965@gmail.com
