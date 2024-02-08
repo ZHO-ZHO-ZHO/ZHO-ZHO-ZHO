@@ -71,6 +71,12 @@ You can click the Preview link to take a look at your changes.
 - **[ComfyUI PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO)**: 人物特征迁移与融合，支持单/多张参考图，轻松保持角色一致性！
 - **[ComfyUI InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)**: 仅需一张图就可实现高质量的角色保持！多种风格随心变！
 - **[QWen-VL in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API)**: 将目前最好的开源视觉模型 QWen-VL-Plus & Max 引入到 ComfyUI 中，超强细节、文字识别能力，支持单/多轮对话双模式！
+- **[ComfyUI SegMoE](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SegMoE)**：三个臭皮匠顶个诸葛亮！ SD 的 MoE 专家混合模型框架！
+- **[Stable Video Diffusion in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO)**：我为 SVD 设计的 工作流 和 节点，文生视频 + 图生视频，更好的交互！
+- **[ComfyUI I2VGenXL](https://github.com/ZHO-ZHO-ZHO/ComfyUI-I2VGenXL)**：目前 动效自然程度 和 光影 最好的 高清 视频模型
+- **[BRIA_RMBG 1.4 in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)**：BRIA 开发的目前最好的背景去除模型，已支持批量处理（可去除视频背景）
+- **[ComfyUI Text_+ Image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Text_Image-Composite)**：将文字转化为图像的 ComfyUI 节点，还可配合视频生成字幕或帧计数
+- **[ComfyUI Selector + CoInput Multilingual](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Selector-CoInput-Multilingual)**：CoInput 综合输入：高效整合 + 利于复用 + 简化界面 + 中英双语 + 避免efficiency-nodes重复加载的缺陷
 
 📬 **联系我**：
 - 邮箱：zhozho3965@gmail.com
