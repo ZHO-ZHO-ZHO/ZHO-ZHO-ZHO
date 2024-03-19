@@ -63,21 +63,27 @@ You can click the Preview link to take a look at your changes.
 - Python
 
 🔥 **热门**：
-- **[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流都会放在里面
+- **[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流都
 - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: 主库，完整工作内容和时间线
 - **[ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)**：GPTs帮助创建或解释自定义节点或工作流，上榜 GPTs 全球对话数据第 165 名（12.29数据），目前已达1.7k！
 - **[ComfyUI Portrait Master 简体中文版](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)**: 人物肖像提示词生成模块，选择永远比填空更适合人类！
 - **[Gemini in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini)**: 将 Gemini Pro 双模型引入到 ComfyUI 中，生成提示词、描述图像，也可与它畅聊人生！
+- **[QWen-VL in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API)**: 将目前最好的开源视觉模型 QWen-VL-Plus & Max 引入到 ComfyUI 中，超强细节、文字识别能力，支持单/多轮对话双模式！
 - **[ComfyUI ArtGallery | Prompt Visualization](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery)**: 将近千种艺术提示词分类可视化，只需选择喜欢的图像 + 滑动选择权重，节点就会自动输出提示词，自由的在艺术世界翱翔吧！
+- **[APISR in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR)**:专门用于动漫的超分模型，包含 2x 和 4x 双模型，速度飞快，效果很好
+- **[BRIA_RMBG 1.4 in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)**：BRIA 开发的目前最好的背景去除模型，已支持批量处理（可去除视频背景）
+- **[ComfyUI YoloWorld-EfficientSAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)**：利用全新的 YOLO-World 与 EfficientSAM 实现高效的对象检测 + 分割，支持选择指定蒙版单独输出，同时支持图像和视频
+- **[ComfyUI TripoSR ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Flowty-TripoSR-ZHO)**：TripoSR 在 ComfyUI 中的优化版，自带背景去除功能，修复原版黑色背景块bug，优化为按文件名保存 3D 模型
 - **[ComfyUI PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO)**: 人物特征迁移与融合，支持单/多张参考图，轻松保持角色一致性！
 - **[ComfyUI InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)**: 仅需一张图就可实现高质量的角色保持！多种风格随心变！
-- **[QWen-VL in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API)**: 将目前最好的开源视觉模型 QWen-VL-Plus & Max 引入到 ComfyUI 中，超强细节、文字识别能力，支持单/多轮对话双模式！
-- **[ComfyUI SegMoE](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SegMoE)**：三个臭皮匠顶个诸葛亮！ SD 的 MoE 专家混合模型框架！
-- **[Stable Video Diffusion in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO)**：我为 SVD 设计的 工作流 和 节点，文生视频 + 图生视频，更好的交互！
-- **[ComfyUI I2VGenXL](https://github.com/ZHO-ZHO-ZHO/ComfyUI-I2VGenXL)**：目前 动效自然程度 和 光影 最好的 高清 视频模型
-- **[BRIA_RMBG 1.4 in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)**：BRIA 开发的目前最好的背景去除模型，已支持批量处理（可去除视频背景）
 - **[ComfyUI Text_+ Image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Text_Image-Composite)**：将文字转化为图像的 ComfyUI 节点，还可配合视频生成字幕或帧计数
 - **[ComfyUI Selector + CoInput Multilingual](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Selector-CoInput-Multilingual)**：CoInput 综合输入：高效整合 + 利于复用 + 简化界面 + 中英双语 + 避免efficiency-nodes重复加载的缺陷
+- **[ComfyUI SegMoE](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SegMoE)**：三个臭皮匠顶个诸葛亮！ SD 的 MoE 专家混合模型框架！
+- **[ComfyUI PixArt-alpha Diffusers](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PixArt-alpha-Diffusers)**：对 PixArt-alpha-Diffusers实现，填补原本支持插件失效的空白
+- **[Stable Video Diffusion in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO)**：我为 SVD 设计的 工作流 和 节点，文生视频 + 图生视频，更好的交互！
+- **[ComfyUI I2VGenXL](https://github.com/ZHO-ZHO-ZHO/ComfyUI-I2VGenXL)**：目前 动效自然程度 和 光影 最好的 高清 视频模型
+- **[ComfyUI Differential_Diffusion Workflows](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Differential_Diffusion-Workflows)**：我设计的 Differential Diffusion 工作流
+
 
 📬 **联系我**：
 - 邮箱：zhozho3965@gmail.com
