@@ -71,10 +71,10 @@ You can click the Preview link to take a look at your changes.
 - **[QWen-VL in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API)**: 将目前最好的开源视觉模型 QWen-VL-Plus & Max 引入到 ComfyUI 中，超强细节、文字识别能力，支持单/多轮对话双模式！
 - **[ComfyUI ArtGallery | Prompt Visualization](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery)**: 将近千种艺术提示词分类可视化，只需选择喜欢的图像 + 滑动选择权重，节点就会自动输出提示词，自由的在艺术世界翱翔吧！
 - **[APISR in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR)**:专门用于动漫的超分模型，包含 2x 和 4x 双模型，速度飞快，效果很好
-- **[BiRefNet in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR)**:目前最好的开源可商用背景抠除模型，同时支持 图像和视频 处理
+- **[BiRefNet in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO)**:目前最好的开源可商用背景抠除模型，同时支持 图像和视频 处理
 - **[BRIA_RMBG 1.4 in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG)**：BRIA 开发的目前最好的背景去除模型，已支持批量处理（可去除视频背景）
 - **[ComfyUI YoloWorld-EfficientSAM](https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM)**：利用全新的 YOLO-World 与 EfficientSAM 实现高效的对象检测 + 分割，支持选择指定蒙版单独输出，同时支持图像和视频
-- **[DepthFM IN ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Flowty-TripoSR-ZHO)**：CompVis 推出的 高效 + 多功能 深度估计模型，同时支持 图像和视频 深度估计
+- **[DepthFM IN ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-DepthFM)**：CompVis 推出的 高效 + 多功能 深度估计模型，同时支持 图像和视频 深度估计
 - **[ComfyUI TripoSR ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Flowty-TripoSR-ZHO)**：TripoSR 在 ComfyUI 中的优化版，自带背景去除功能，修复原版黑色背景块bug，优化为按文件名保存 3D 模型
 - **[ComfyUI PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO)**: 人物特征迁移与融合，支持单/多张参考图，轻松保持角色一致性！
 - **[ComfyUI InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)**: 仅需一张图就可实现高质量的角色保持！多种风格随心变！
