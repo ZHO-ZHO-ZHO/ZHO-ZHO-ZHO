@@ -63,10 +63,11 @@ You can click the Preview link to take a look at your changes.
 - Python
 
 🔥 **热门**：
-- **[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 17类 43 项）
+- **[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 18类 44 项）
 - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: 主库，完整工作内容和时间线
 - **[ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)**：GPTs帮助创建或解释自定义节点或工作流，上榜 GPTs 全球对话数据第 165 名（12.29数据），目前已达1.7k！
 - **[ComfyUI Portrait Master 简体中文版](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)**: 人物肖像提示词生成模块，选择永远比填空更适合人类！
+- **[Stable Diffusion 3 API ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-StableDiffusion3-API)**: 通过 API 将 Stable Diffusion 3 引入 ComfyUI!
 - **[Gemini in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini)**: 将 Gemini Pro 双模型引入到 ComfyUI 中，生成提示词、描述图像，也可与它畅聊人生！
 - **[QWen-VL in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API)**: 将目前最好的开源视觉模型 QWen-VL-Plus & Max 引入到 ComfyUI 中，超强细节、文字识别能力，支持单/多轮对话双模式！
 - **[ComfyUI ArtGallery | Prompt Visualization](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery)**: 将近千种艺术提示词分类可视化，只需选择喜欢的图像 + 滑动选择权重，节点就会自动输出提示词，自由的在艺术世界翱翔吧！
