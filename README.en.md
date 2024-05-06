@@ -40,6 +40,8 @@
 - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: Main repository, complete work content, and timeline
 - **[ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)**：GPTs to help create or explain custom nodes or workflows, TOP 165 (12.29)
 - **[ComfyUI Portrait Master 简体中文版](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)**: Character portrait prompt generation module
+- **[Stable Diffusion 3 API ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-StableDiffusion3-API)**: Using SD3 via API
+- **[ComfyUI PuLID（diffusers）](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PuLID-ZHO)**: Unofficial implementation of PuLID（diffusers） for ComfyUI
 - **[Gemini in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini)**: Gemini Pro in ComfyUI
 - **[QWen-VL in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API)**: QWen-VL-Plus & Max in ComfyUI
 - **[ComfyUI ArtGallery | Prompt Visualization](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery)**: 1000+ prompt of art, Prompt Visualization
