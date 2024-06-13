@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 - Python
 
 🔥 **热门**：
-- **[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 19 类 46 项）
+- **🆕[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 20 类 50 项）,已新增 SD3 Medium 工作流
 - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: 主库，完整工作内容和时间线
 - **[ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)**：GPTs帮助创建或解释自定义节点或工作流，上榜 GPTs 全球对话数据第 165 名（12.29数据），目前已达1.7k！
   
