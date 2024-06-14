@@ -91,9 +91,12 @@ You can click the Preview link to take a look at your changes.
 
 - **🆕[ComfyUI Tripo-API ZHO](https://github.com/ZHO-ZHO-ZHO/Tripo-API-ZHO)**：在 ComfyUI 中使用 Tripo-API 生成高质量 3D 模型！
 - **[ComfyUI TripoSR ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Flowty-TripoSR-ZHO)**：TripoSR 在 ComfyUI 中的优化版，自带背景去除功能，修复原版黑色背景块bug，优化为按文件名保存 3D 模型
+
   
 - **[ComfyUI PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO)**: 人物特征迁移与融合，支持单/多张参考图，轻松保持角色一致性！
 - **[ComfyUI InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)**: 仅需一张图就可实现高质量的角色保持！多种风格随心变！
+- **[ComfyUI PuLID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PuLID-ZHO)**: 人物特征迁移与融合新王者，支持单/多张参考图！
+
   
 - **[ComfyUI Text_+ Image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Text_Image-Composite)**：将文字转化为图像的 ComfyUI 节点，还可配合视频生成字幕或帧计数
 - **[ComfyUI Selector + CoInput Multilingual](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Selector-CoInput-Multilingual)**：CoInput 综合输入：高效整合 + 利于复用 + 简化界面 + 中英双语 + 避免efficiency-nodes重复加载的缺陷
