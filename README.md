@@ -80,6 +80,11 @@ You can click the Preview link to take a look at your changes.
     - **[ComfyUI Portrait Master 简体中文版](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn)**: 人物肖像提示词生成模块，选择永远比填空更适合人类！
 
 
+- 🆕UltraEdit 自动识别 + 图像编辑：
+  
+    - **🆕[UltraEdit in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-UltraEdit-ZHO)**: 基于 SD3 Medium 的 图像编辑模型，允许仅通过提示词实现指定内容的图像编辑，且能保持风格一致性，同时支持 全局编辑 和 区域蒙版编辑
+
+
 - SD3 API：
   
     - **[Stable Diffusion 3 API ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-StableDiffusion3-API)**: 通过 API 将 Stable Diffusion 3 引入 ComfyUI!
@@ -125,7 +130,7 @@ You can click the Preview link to take a look at your changes.
 - Super-Resolution 超分/放大模型：
   
     - **[APISR in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR)**:专门用于动漫的超分模型，包含 2x 和 4x 双模型，速度飞快，效果很好
-    - **🆕[AuraSR in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR)**:基于 GigaGAN 的 4x 超分模型，速度快，效果还不错
+    - **🆕[AuraSR in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-AuraSR-ZHO)**:基于 GigaGAN 的 4x 超分模型，速度快，效果还不错
 
 
 - 深度估计：
