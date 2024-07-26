@@ -32,6 +32,12 @@ You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZHO-ZHO-ZHO)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<a href="https://trendshift.io/repositories/7226" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7226" alt="ZHO-ZHO-ZHO%2FComfyUI-InstantID | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/8663" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8663" alt="ZHO-ZHO-ZHO%2FComfyUI-Workflows-ZHO | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/7073" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7073" alt="ZHO-ZHO-ZHO%2FComfyUI-PhotoMaker | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+
 <!---
 精简版
 --->
@@ -145,7 +151,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 人物特征保持/迁移：
-  
+
     - **[ComfyUI PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO)**: 人物特征迁移与融合，支持单/多张参考图，轻松保持角色一致性！
     - **[ComfyUI InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID)**: 仅需一张图就可实现高质量的角色保持！多种风格随心变！
     - **[ComfyUI PuLID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PuLID-ZHO)**: 人物特征迁移与融合新王者，支持单/多张参考图！
