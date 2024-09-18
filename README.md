@@ -73,9 +73,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏘️ **社区**
 - [**ComfyUI Community Summit（CCS）**](https://comfycommunity.com/)| ComfyUI 全球社区峰会
+  
   <img width="960" alt="CCS东京站合作伙伴手册-0909_页面_01" src="https://github.com/user-attachments/assets/3af950b4-5b7c-43ef-9550-59de020dfe3c">
 
 - [**ComfyPark**](comfypark.cn) | 资讯/精选 | 原理/系统教程 | 安装/部署 | 开发/测试 | 工作流/创作 | 社区/生态
+  
   ![screenshot-20240919-020432](https://github.com/user-attachments/assets/277df9dd-9e4d-454a-9003-5f06d848e652)
 
   
@@ -84,6 +86,7 @@ You can click the Preview link to take a look at your changes.
 - 职业建筑师 | 公共建筑
 - 罗杰斯✅福斯特❌ | 盖里✅扎哈❌ | 贝聿铭✅路易斯康❌
 - 代表作：[深圳清华大学研究院新大楼](https://www.archdaily.cn/cn/1019678/shen-zhen-qing-hua-da-xue-yan-jiu-yuan-xin-da-lou-hua-yang-guo-ji)
+  
   ![微信图片_20240919021302](https://github.com/user-attachments/assets/299cfc24-a14f-43df-a22f-676a0c953c8e)
 
 
@@ -99,6 +102,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏗️**重心**
 - ComfyUI 生态：
+  ![screenshot-20240625-170319](https://github.com/user-attachments/assets/f46f769d-f168-454c-9c7b-ed8bcd727c1d)
+
     - [ComfyUI Community Summit（CCS）](https://comfycommunity.com/)| ComfyUI 全球社区峰会
     - [ComfyPark](comfypark.cn) 社区
     - 编写、汉化或优化自定义节点
