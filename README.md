@@ -41,34 +41,77 @@ You can click the Preview link to take a look at your changes.
 <!---
 精简版
 --->
-🏛️ **职业**：
+
+## 🏆 **开源体系**
+
+  ![IMG_3289](https://github.com/user-attachments/assets/151c10cf-d927-4650-8fb1-419df00f843b)
+
+
+- 23.4 - 23.10 - |（原理）部署+教程开源
+
+    - [国内最早的汉化、整合包和云部署](https://www.bilibili.com/video/BV14r4y1d7r8/?spm_id_from=333.999.0.0)
+    - [国内最全的理论 + 生态视频（5w字，4h）](https://www.bilibili.com/video/BV1BC4y1V7u9/?share_source=copy_web)
+
+- 23.8 - 24.8 - |（工具）工作流+ Agent开源
+
+    - [全球开源第一的工作流库](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
+    - [全球领域第一的 ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
+
+- 23.10 - 24.8 - |（开发）插件+资讯开源
+
+    - 全球 TOP3 ComfyUI 插件开发者
+    - 论文 + 项目精选：[AIGC | 每日简报](https://www.bilibili.com/read/readlist/rl820062?spm_id_from=333.999.0.0)
+
+- 24.6 -  |（生态）社区 + 创造开源
+
+    - ComfyUI 全球领导力峰会发起人
+    - ComfyUI 全球社区峰会内容共创 + 共学计划
+    - ComfyUI 全球社区峰会 - [新艺术宣言展览计划](https://mp.weixin.qq.com/s/HMFc0OFOiocah_tL37QlrQ)
+
+
+ 
+
+## 🏘️ **社区**
+- [**ComfyUI Community Summit（CCS）**](https://comfycommunity.com/)| ComfyUI 全球社区峰会
+  <img width="960" alt="CCS东京站合作伙伴手册-0909_页面_01" src="https://github.com/user-attachments/assets/3af950b4-5b7c-43ef-9550-59de020dfe3c">
+
+- [**ComfyPark**](comfypark.cn) | 安装与部署 | 系统教程 | 模块+模组 | 工作流设计 | 定制化
+  ![screenshot-20240919-020432](https://github.com/user-attachments/assets/277df9dd-9e4d-454a-9003-5f06d848e652)
+
+  
+
+## 🏛️ **职业**
 - 职业建筑师 | 公共建筑
 - 罗杰斯✅福斯特❌ | 盖里✅扎哈❌ | 贝聿铭✅路易斯康❌
+- 代表作：[深圳清华大学研究院新大楼](https://www.archdaily.cn/cn/1019678/shen-zhen-qing-hua-da-xue-yan-jiu-yuan-xin-da-lou-hua-yang-guo-ji)
+  ![微信图片_20240919021302](https://github.com/user-attachments/assets/299cfc24-a14f-43df-a22f-676a0c953c8e)
 
-❣️ **兴趣**：
+
+## ❣️ **兴趣**
 - AIGC
 - 建筑设计&理论 | Archigram ✅ 结构主义✅
 - 艺术 | 蔡国强✅
 - 工业设计、交互设计
 
-🤖 **焦点**：
+## 🤖 **焦点**：
 - 目前独立从事 AIGC 研究与实践 | 图像✅ 视频✅ 3D✅ LLM✅
 - 论文解读 | 发展梳理 | 视频制作
 
-🏗️**重心**：
-- Stable Diffusion 生态 + ComfyUI：
-    - ComfyPark 社区筹备中 | 安装与部署 | 系统教程 | 模块+模组 | 工作流设计 | 定制化UI
+## 🏗️**重心**
+- ComfyUI 生态：
+    - [ComfyUI Community Summit（CCS）](https://comfycommunity.com/)| ComfyUI 全球社区峰会
+    - [ComfyPark](comfypark.cn) 社区
     - 编写、汉化或优化自定义节点
     - 设计工作流
-    - 完成2000+节点测试
+    - 已完成 2000+ 节点测试
     - 未来推出ComfyUI的一个优化版本
 - AIGC 理论发展与梳理
 
-🌟 **技能**：
+## 🌟 **技能**
 - ChatGPT（哈哈哈）
 - Python
 
-🔥 **热门**：
+## 🔥 **热门**
 
 - Main 主库：
 
@@ -169,23 +212,25 @@ You can click the Preview link to take a look at your changes.
 
 
 
-📬 **联系我**：
+## 📬 **联系我**：
 - 邮箱：zhozho3965@gmail.com
 - QQ 群：839821928
 
-🔗 **社交媒体**：
+## 🔗 **社交媒体**：
 - 个人页：[-Zho-](https://jike.city/zho)
 - Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
 - X（Twitter）：[我的Twitter](https://twitter.com/ZHO_ZHO_ZHO)
 - 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
 
-📅 **未来计划**：
-- ComfyPark社区
+## 📅 **未来计划**：
+- ComfyPark
+- ComfyUI Community Summit
 - 发布 ComfyUI 2400+ 节点测试报告
-- 开放精选期刊栏目（博客+订阅）
+- 发布 ComfyUI 生态报告
+- 开放精选期刊栏目（博客 + 订阅）
 - 推出 ComfyUI 的特殊优化版本
 
-💡 **支持我**：
+## 💡 **支持我**：
 - B站：[B站充电](https://space.bilibili.com/484366804)
 - 爱发电：[为我充电](http://afdian.com/a/ZHOZHO)
 
