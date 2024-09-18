@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 - [**ComfyUI Community Summit（CCS）**](https://comfycommunity.com/)| ComfyUI 全球社区峰会
   <img width="960" alt="CCS东京站合作伙伴手册-0909_页面_01" src="https://github.com/user-attachments/assets/3af950b4-5b7c-43ef-9550-59de020dfe3c">
 
-- [**ComfyPark**](comfypark.cn) | 安装与部署 | 系统教程 | 模块+模组 | 工作流设计 | 定制化
+- [**ComfyPark**](comfypark.cn) | 资讯/精选 | 原理/系统教程 | 安装/部署 | 开发/测试 | 工作流/创作 | 社区/生态
   ![screenshot-20240919-020432](https://github.com/user-attachments/assets/277df9dd-9e4d-454a-9003-5f06d848e652)
 
   
@@ -116,12 +116,14 @@ You can click the Preview link to take a look at your changes.
 - Main 主库：
 
     - **🆕[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 20 类 50 项）,已新增 SD3 Medium 工作流
+
     - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: 主库，完整工作内容和时间线
 
 
 - ComfyUI Assistant 智能助手：
 
     - **[ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)**：GPTs帮助创建或解释自定义节点或工作流，上榜 GPTs 全球对话数据第 165 名（12.29数据），目前已达1.7k！
+
 
 
 - 肖像大师（中文版）：
