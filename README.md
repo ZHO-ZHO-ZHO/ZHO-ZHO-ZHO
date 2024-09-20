@@ -73,8 +73,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏘️ **社区**
 - [**ComfyUI Community Summit（CCS）**](https://comfycommunity.com/)| ComfyUI 全球社区峰会
+  <img alt="CCS东京站合作伙伴手册-0909_页面_01" src="https://github.com/user-attachments/assets/5ce1ad02-ed32-4ee4-8270-051731d2e822">
+
   
-  <img width="960" alt="CCS东京站合作伙伴手册-0909_页面_01" src="https://github.com/user-attachments/assets/3af950b4-5b7c-43ef-9550-59de020dfe3c">
+
+  ![CCS东京站合作伙伴手册-0909_页面_24](https://github.com/user-attachments/assets/3eeef8e4-8c4b-43aa-a592-ce6661c07cd0)
+
 
 - [**ComfyPark**](comfypark.cn) | 资讯/精选 | 原理/系统教程 | 安装/部署 | 开发/测试 | 工作流/创作 | 社区/生态
   
@@ -102,6 +106,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏗️**重心**
 - ComfyUI 生态：
+  
   ![screenshot-20240625-170319](https://github.com/user-attachments/assets/f46f769d-f168-454c-9c7b-ed8bcd727c1d)
 
     - [ComfyUI Community Summit（CCS）](https://comfycommunity.com/)| ComfyUI 全球社区峰会
