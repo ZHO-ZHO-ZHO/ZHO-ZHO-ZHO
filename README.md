@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
   ![CCS东京站合作伙伴手册-0909_页面_24](https://github.com/user-attachments/assets/3eeef8e4-8c4b-43aa-a592-ce6661c07cd0)
 
 
-- [**ComfyPark**](comfypark.cn) | 资讯/精选 | 原理/系统教程 | 安装/部署 | 开发/测试 | 工作流/创作 | 社区/生态
+- [**ComfyPark**](https://comfypark.cn/) | 资讯/精选 | 原理/系统教程 | 安装/部署 | 开发/测试 | 工作流/创作 | 社区/生态
   
   ![screenshot-20240919-020432](https://github.com/user-attachments/assets/277df9dd-9e4d-454a-9003-5f06d848e652)
 
