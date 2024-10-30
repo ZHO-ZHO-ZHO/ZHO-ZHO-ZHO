@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 - 23.8 - 24.8 - |（工具）工作流+ Agent开源
 
-    - [全球开源第一的工作流库](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
+    - [全球开源第一的工作流库，突破 5K 星](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
     - [全球领域第一的 ComfyUI Assistant](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
 
 - 23.10 - 24.8 - |（开发）插件+资讯开源
@@ -125,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 
 - Main 主库：
 
-    - **🆕[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 20 类 50 项）,已新增 SD3 Medium 工作流
+    - **🆕[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 22 类 54 项）,已新增 SD3 Medium 工作流
 
     - **[简体中文版 ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-ZHO-Chinese)**: 主库，完整工作内容和时间线
 
