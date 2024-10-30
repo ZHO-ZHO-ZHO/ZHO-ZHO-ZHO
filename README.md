@@ -38,6 +38,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://trendshift.io/repositories/7073" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7073" alt="ZHO-ZHO-ZHO%2FComfyUI-PhotoMaker | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 
+![工作流库5K-2](https://github.com/user-attachments/assets/04ab4ecc-8d2f-47ca-8416-c952e6d9bfc7)
+
+
+
 <!---
 精简版
 --->
