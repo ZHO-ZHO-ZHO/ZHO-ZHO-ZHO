@@ -77,6 +77,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏘️ **社区**
 - [**ComfyUI Community Summit（CCS）**](https://comfycommunity.com/)| ComfyUI 全球社区峰会
+ 
+  ![CCS 2025 新年快乐 拷贝](https://github.com/user-attachments/assets/42339426-1b31-4bec-b3dd-ddc4d946e13d)
+
+
   <img alt="CCS东京站合作伙伴手册-0909_页面_01" src="https://github.com/user-attachments/assets/5ce1ad02-ed32-4ee4-8270-051731d2e822">
 
   
