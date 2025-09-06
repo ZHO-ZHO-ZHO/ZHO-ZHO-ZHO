@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 ![工作流库5K-2](https://github.com/user-attachments/assets/04ab4ecc-8d2f-47ca-8416-c952e6d9bfc7)
 
+<img width="1032" height="1373" alt="Group 320" src="https://github.com/user-attachments/assets/f6446445-06fd-40ac-ad49-1091fdfa5ce7" />
 
 
 <!---
@@ -131,7 +132,18 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 **热门**
 
-- Main 主库：
+- 🆕 Nano-Banana Creation 我的 Nano-Banana 创意玩法大合集：
+
+    - **[Nano-Banana Creation ZHO](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)**: 我的所有 Nano Banana 原创提示词（共 46 种玩法）
+
+
+- 🆕 Nano Bananary 香蕉超市：
+
+    - **[Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananar)**: Nano Banana 各种玩法一键生成，无需提示词，丝滑衔接连续编辑
+
+
+
+- ComfyUI Main 主库：
 
     - **🆕[ComfyUI Workflows ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)**: 我的所有工作流（目前共 22 类 54 项）,已新增 SD3 Medium 工作流
 
