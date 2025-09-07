@@ -139,7 +139,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🆕 Nano Bananary 香蕉超市：
 
-    - **[Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananar)**: Nano Banana 各种玩法一键生成，无需提示词，丝滑衔接连续编辑
+    - **[Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)**: Nano Banana 各种玩法一键生成，无需提示词，丝滑衔接连续编辑
 
 
 
