@@ -111,7 +111,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🤖 **焦点**：
 - 目前独立从事 AIGC 研究与实践 | 图像✅ 视频✅ 3D✅ LLM✅
-- 论文解读 | 发展梳理 | 视频制作
+- 论文解读 | 发展梳理 | 创意创作 | 开发探索
 
 ## 🏗️**重心**
 - ComfyUI 生态：
@@ -132,9 +132,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 **热门**
 
-### 🍌 Nano Banana 创意与开发：
+### 3.0 时代 ｜ 🍌 Nano Banana / GPT-Img 创意与开发：
 
 ---
+
+- 🆕 我的 GPT-Img/4o/5 创意玩法大合集（更新中）：
+
+    - **[GPT-IMG Creation ZH4O](https://github.com/ZHO-ZHO-ZHO/ZH4O-GPT4o-Creation)**: 我的所有 GPT-Img/4o/5 原创提示、提示方法、提示词！
 
 
 - 🆕 🍌 我的 Nano-Banana 创意玩法大合集：
@@ -158,7 +162,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### ComfyUI 创意与开发：
+
+
+
+### 2.0 时代 ｜ ComfyUI 创意与开发：
 
 
 ---
