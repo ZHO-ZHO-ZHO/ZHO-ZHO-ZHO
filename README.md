@@ -132,15 +132,36 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 **热门**
 
-- 🆕 Nano-Banana Creation 我的 Nano-Banana 创意玩法大合集：
+### 🍌 Nano Banana 创意与开发：
+
+---
+
+
+- 🆕 🍌 我的 Nano-Banana 创意玩法大合集：
 
     - **[Nano-Banana Creation ZHO](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)**: 我的所有 Nano Banana 原创提示词（共 46 种玩法）
 
 
-- 🆕 Nano Bananary 香蕉超市：
+- 🆕 🍌 Nano Bananary ｜ 香蕉超市：
 
     - **[Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)**: Nano Banana 各种玩法一键生成，无需提示词，丝滑衔接连续编辑
 
+
+- 🆕 🍌 BananaPod ｜ 香蕉铺子：
+
+    - **[BananaPod](https://github.com/ZHO-ZHO-ZHO/BananaPod)**: Nano Banana 创意画板：内置各种玩法一键生成，支持手绘输入，多图框选创意无限
+ 
+
+- 🆕 🍌 BananaFlow ｜ 香蕉工厂：
+
+    - **[BananaFlow](https://github.com/ZHO-ZHO-ZHO/BananaFlow)**: 基于 NanoBanana + Veo 的开源工作流创意平台，工作流 + 窗口 双模式纵享丝滑，内置玩法节点，无需提示词一键生成！
+
+
+
+### ComfyUI 创意与开发：
+
+
+---
 
 
 - ComfyUI Main 主库：
